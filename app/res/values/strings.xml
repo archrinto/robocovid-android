@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Robocovid</string>
+    <string name="ip_addr_label">IP Address</string>
+    <string name="btn_connect_text">Connect</string>
+</resources>
